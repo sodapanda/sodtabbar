@@ -1,0 +1,3 @@
+include ':sodtabbar'
+include ':app'
+rootProject.name = "SodTabbar"
